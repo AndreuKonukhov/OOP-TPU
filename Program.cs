@@ -14,6 +14,9 @@
             int a = 0;
             int b = 1;
             Console.WriteLine(a + b);
+
+            //First relise fetures
+            int b = 1;
         }
     }
 }
