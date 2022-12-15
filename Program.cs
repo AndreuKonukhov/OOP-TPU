@@ -17,6 +17,8 @@
 
             //First relise fetures
             int b = 1;
+
+            //Комментарий 1
         }
     }
 }
