@@ -17,6 +17,11 @@
 
             //First relise fetures
             int b = 1;
+
+            //Комментарий 1
+            //Комментарий 2
+            int h = 1;
+            //Cheking
         }
     }
 }
