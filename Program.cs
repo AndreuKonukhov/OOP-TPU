@@ -9,6 +9,11 @@
             // Add new version
             // Вывод на экран сообщения пользователя
             Console.WriteLine(Console.Readline());
+
+            //Add new features
+            int a = 0;
+            int b = 1;
+            Console.WriteLine(a + b);
         }
     }
 }
